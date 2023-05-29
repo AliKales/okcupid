@@ -4,7 +4,7 @@ This python code will download 16 peoples profile picture in your Who Likes You 
 
 First Log In your account
 
-Go to page [Who Likes You]("https://www.okcupid.com/who-likes-you")
+Go to page [Who Likes You](https://www.okcupid.com/who-likes-you)
 
 See page's HTML code
 
