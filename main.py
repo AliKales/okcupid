@@ -2,7 +2,7 @@ import re
 import requests
 import os
 
-with open("okcubid.txt", 'r', encoding='utf-8') as file:
+with open("okcupid.txt", 'r', encoding='utf-8') as file:
     string = file.read()
 subStr = re.findall(r'background-image: url\(&quot;(.+?)&quot', string)
 
